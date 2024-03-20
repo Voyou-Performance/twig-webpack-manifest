@@ -1,0 +1,1 @@
+# twig-webpack-manifest
